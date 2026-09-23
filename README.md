@@ -107,7 +107,6 @@ My engineering work sits at the intersection of **AI Systems**, **Distributed Ba
 
 - 🏆 **Second Prize** — Student Scientific Research & Innovation Contest *(2026)* — *AuraSeek Platform*
 - 🏆 **Second Prize, Best Presentation Award** — National Scientific Conference on AI, Blockchain and Metaverse Applications in Marketing *(June 2025)*
-- 📚 **Academic Co-Author** — Co-authored 6-chapter university lecture materials on *Information Security* (cryptography, access control, secure coding) typeset in LaTeX/XeLaTeX.
 
 ---
 
