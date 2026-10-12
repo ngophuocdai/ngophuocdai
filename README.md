@@ -19,7 +19,7 @@ I am a Data Science student at the **University of Transport Ho Chi Minh City** 
 My engineering work sits at the intersection of **AI Systems**, **Distributed Backend Architecture**, and **Software Security & Privacy**. I specialize in building event-driven NestJS microservices, gRPC/Kafka communication backbones, on-device multimodal AI retrieval engines, and cryptographic verification ledgers.
 
 - 🎓 **Education**: B.S. in Data Science, University of Transport Ho Chi Minh City *(Sep 2023 – Present)*
-- 💼 **Experience**: Backend Developer Intern at **Smart Generation Of Digital** *(Jul 2024 – Jul 2026)*
+- 💼 **Experience**: Backend Developer at **Smart Generation Of Digital** *(Jul 2024 – Jul 2026)*
 - 🎯 **Core Focus**: Distributed Systems (gRPC/Kafka/NestJS) • AI Inference Optimization (ONNX) • Security & ABAC (CASL/E2EE) • Privacy-by-Design & On-Device AI
 
 ---
