@@ -38,7 +38,7 @@ My engineering work sits at the intersection of **AI Systems**, **Distributed Ba
 
 ---
 
-### 📦 SGOD Secure High-Throughput Upload Microservice (2024 – 2026)
+### 📦 SGOD Secure High-Throughput Upload Microservice (2025 – 2026)
 *Production-ready file management microservice with AES-256-GCM envelope encryption and MinIO/S3 object storage integration.*
 
 - **AES-256-GCM Envelope Encryption**: Designed a cryptographic storage layer performing envelope key generation and AES-256-GCM encryption before persisting files to MinIO/S3, ensuring complete data privacy against cloud admin inspection.
@@ -49,7 +49,7 @@ My engineering work sits at the intersection of **AI Systems**, **Distributed Ba
 
 ---
 
-### 📈 Crypto Financial Intelligence & ONNX Predictor Platform (2025 – Present)
+### 📈 Crypto Financial Intelligence & ONNX Predictor Platform (2025 – 2026)
 *Real-time cryptocurrency analytics, PyTorch Mamba ONNX inference, and reactive charting dashboard.*
 
 - **Multi-Head ONNX AI Execution**: Compiled a PyTorch Mamba temporal sequence predictor (**CryptoMamba**) to `.onnx` and loaded it directly inside the NestJS backend via `onnxruntime-node`, executing CPU-optimized multi-head predictions (returns, 3-class trend, and ATR price bands).
@@ -70,7 +70,7 @@ My engineering work sits at the intersection of **AI Systems**, **Distributed Ba
 
 ---
 
-### 💬 Chat-UTH Real-Time Communication System (2024 – 2025)
+### 💬 Chat-UTH Real-Time Communication System (2025 – 2026)
 *Production-grade monolithic real-time communication platform with E2EE, Kafka event pipeline, and AI chatbots.*
 
 - **High-Concurrency Messaging**: Developed a real-time messaging engine supporting 1:1 and group chats with cursor-based pagination, reactions, and multi-device sync. Benchmarked WebSocket channels under 100 Virtual User load tests, locating peak throughput boundaries (~90-110 msg/s) and optimizing MongoDB indices to eliminate write locks.
@@ -91,7 +91,7 @@ My engineering work sits at the intersection of **AI Systems**, **Distributed Ba
 
 ## 💼 Professional Experience
 
-### **Backend Developer Intern** — Smart Generation Of Digital
+### **Backend Developer** — Smart Generation Of Digital
 *Ho Chi Minh City, Vietnam • July 2024 – July 2026*
 
 - **Microservices & API Gateway (BFF)**: Developed distributed backend services using NestJS (CQRS/DDD), gRPC Protobuf contracts, Kafka event streaming, and API Gateway BFF routing with circuit breaker and retry mechanisms.
